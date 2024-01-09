@@ -1,0 +1,64 @@
+.btn1 {
+    width: 20px;
+    height: 20px;
+    border: none;
+    background: linear-gradient(90deg,#4dc9e6,#210cac);
+    border-radius: 50%;
+};
+
+.btn2 {
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 50%;
+ 
+}
+.btn2 {
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 50%;
+    background-color: #a9c9ff;
+    background-image: linear-gradient(180deg,#a9c9ff,#ffbbec);
+
+}
+.btn3 {
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 50%;
+    background-color: #fa8bff;
+    background-image: linear-gradient(45deg,#fa8bff,#2bd2ff 52%,#2bff88 90%);
+}
+
+.btn4 {
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 50%;
+    background-image: linear-gradient(to bottom right,#ff512f,#dd2476);
+}
+
+.btn5 {
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 50%;
+    background-image: linear-gradient(to bottom right,#fd8451,#ffbd6f);
+}
+
+
+
+.btn6 {
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 50%;
+    background-color: #85ffbd;
+    background-image: linear-gradient(45deg,#85ffbd,#fffb7d);
+}
+
+
+.tt{
+ width: 100%;
+}
