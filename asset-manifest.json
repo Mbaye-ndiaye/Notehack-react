@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notehack-react/static/css/main.a1540c5e.css",
+    "main.js": "/Notehack-react/static/js/main.25592654.js",
+    "index.html": "/Notehack-react/index.html",
+    "main.a1540c5e.css.map": "/Notehack-react/static/css/main.a1540c5e.css.map",
+    "main.25592654.js.map": "/Notehack-react/static/js/main.25592654.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1540c5e.css",
+    "static/js/main.25592654.js"
+  ]
+}
